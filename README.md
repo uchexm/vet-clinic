@@ -2,7 +2,7 @@
 
 ## 📗 Table of Contents
 
-- [🐶 Vel Clinic DB ](#-vel-clinic-db-)
+- [🐶 Vet Clinic DB ](#-vet-clinic-db-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -13,9 +13,9 @@
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
-# 🐶 Vel Clinic DB <a name="about-project"></a>
+# 🐶 Vet Clinic DB <a name="about-project"></a>
 
-**Vel Clinic DB** is a SQL database to store data for a vet clinic.
+**Vet Clinic DB** is a SQL database to store data for a vet clinic.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -25,7 +25,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- Table to store data (name, dob, escapes, neutered, weight)
+- Table to store animal data (name, dob, escapes, neutered, weight)
 - Sample data & queries
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
