@@ -1,67 +1,36 @@
-<!-- TABLE OF CONTENTS -->
+<a name="readme-top"></a>
 
-# 📗 Table of Contents
+## 📗 Table of Contents
 
-- [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Vet Clinic database\] ](#-vet-clinic-database-)
+- [🐶 Vet Clinic DB ](#-vet-clinic-db-)
   - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [💻 Getting Started ](#-getting-started-)
-    - [Prerequisites](#prerequisites)
-    - [Setup](#setup)
-  - [👥 Authors Uchechi Nwaka](#-authors-uchechi-nwaka)
+  - [👥 Author Uchechi Nwaka](#-author-uchechi-nwaka)
+  - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
-  - [⭐️ Show your support ](#️-show-your-support-)
+  - [💖 Show your support ](#-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
-<!-- PROJECT DESCRIPTION -->
+# 🐶 Vet Clinic DB <a name="about-project"></a>
 
-# 📖 [Vet Clinic database] <a name="about-project"></a>
-
-The Vet Clinic database is a relational database implemented using PostgreSQL Workbench and typed in Structured Query Language (SQL). The database is designed to provide all the necessary data for creating a web application for a veterinary clinic.
+**Vet Clinic DB** is a SQL database to store data for a vet clinic.
 
 ## 🛠 Built With <a name="built-with"></a>
 
-- PostgreSQL
+### Tech Stack <a name="tech-stack"></a>
 
-<!-- Features -->
+- PostgreSQL
 
 ### Key Features <a name="key-features"></a>
 
-- Create animals table
-- Database performance audit
-- Add database schema diagram
+- Table to store animal data (name, dob, escapes, neutered, weight)
+- Sample data & queries
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
-
-## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
-
-To get a local copy up and running, follow these steps.
-
-### Prerequisites
-
-In order to run this project you need:
-
-- PostgreSQL
-
-### Setup
-
-Clone this repository to your desired folder:
-
-```sh
-  cd your-folder
-  git clone git@github.com:uchexm/vet-clinic.git
-```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- AUTHORS -->
-
-## 👥 Authors <a name="authors">Uchechi Nwaka</a>
+## 👥 Author <a name="authors">Uchechi Nwaka</a>
 
 - -👤 **Uchechi Nwaka**
 
@@ -70,11 +39,14 @@ Clone this repository to your desired folder:
   -- LinkedIn: [@nwakauc](https://www.linkedin.com/in/nwakauc/)
 
   -- Twiter [@nwakauc](https://twitter.com/Nwakauc)
-  <a name="readme-top"></a>
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **Multiple tables**
+- [ ] **Add join table for visits**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -84,11 +56,15 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
+## 💖 Show your support <a name="support"></a>
 
-## ⭐️ Show your support <a name="support"></a>
+If you like this project, please consider giving it a ⭐.
 
-If you like this project star it
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank all code reviewers for making this project better.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
