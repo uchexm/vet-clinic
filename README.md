@@ -22,15 +22,15 @@ The Vet Clinic database is a relational database implemented using PostgreSQL Wo
 
 ## 🛠 Built With <a name="built-with"></a>
 
-- Sql
+- PostgreSQL
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-[create animals table]
-[database performance audit]
-[add database schema diagram]
+- Create animals table
+- Database performance audit
+- Add database schema diagram
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
