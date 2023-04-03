@@ -27,6 +27,7 @@
 
 - Table to store animal data (name, dob, escapes, neutered, weight)
 - Sample data & queries
+- Performance audit (Explain analyze)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
