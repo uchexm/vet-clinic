@@ -27,10 +27,11 @@
 
 - Table to store animal data (name, dob, escapes, neutered, weight)
 - Sample data & queries
+- Performance audit (Explain analyze)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 👥 Author <a name="authors">Uchechi Nwaka</a>
+## 👥 Authors <a name="authors">Uchechi Nwaka</a>
 
 - -👤 **Uchechi Nwaka**
 
@@ -39,6 +40,12 @@
   -- LinkedIn: [@nwakauc](https://www.linkedin.com/in/nwakauc/)
 
   -- Twiter [@nwakauc](https://twitter.com/Nwakauc)
+
+  👤 **Felix Sowah**
+
+- GitHub: [@githubhandle](https://github.com/Lancelot-SO)
+- Twitter: [@twitterhandle](https://twitter.com/Lancelot_hans)
+- LinkedIn: [LinkedIn](hhtps://www.linkedin.com/in/felix-sowah)
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
